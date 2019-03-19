@@ -3,9 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.271
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeekInterface.IServiceCollectionHelpers", "IServiceCollectionHelpers\GeekInterface.IServiceCollectionHelpers.csproj", "{B642A969-A55E-4F56-9A85-5DC3726085AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeekInterface.IServiceCollectionHelpers", "IServiceCollectionHelpers\GeekInterface.IServiceCollectionHelpers.csproj", "{B642A969-A55E-4F56-9A85-5DC3726085AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeekInterface.IServiceCollectionHelpers.IOptions", "IServiceCollectionHelpers.IOptions\GeekInterface.IServiceCollectionHelpers.IOptions.csproj", "{945E3C72-87F3-477A-8765-DD41B19F8328}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeekInterface.IServiceCollectionHelpers.IOptions", "IServiceCollectionHelpers.IOptions\GeekInterface.IServiceCollectionHelpers.IOptions.csproj", "{945E3C72-87F3-477A-8765-DD41B19F8328}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9CB6BA5B-92F0-4D9F-B4B6-59CF786EFB0C}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
